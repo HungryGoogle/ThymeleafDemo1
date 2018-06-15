@@ -10,4 +10,6 @@ public class ThymeleafDemo1Application {
     public static void main(String[] args) {
         SpringApplication.run(ThymeleafDemo1Application.class, args);
     }
+
+
 }
